@@ -1,3 +1,5 @@
+package org.iesch.ad.modelo;
+
 import org.iesch.ad.modelo.*;
 
 public class Persona {
@@ -11,7 +13,7 @@ public class Persona {
 
     @Override
     public String toString() {
-        return "Persona{" +
+        return "org.iesch.ad.modelo.Persona{" +
                 "id='" + id + '\'' +
                 ", nombre='" + nombre + '\'' +
                 ", apellidos='" + apellidos + '\'' +

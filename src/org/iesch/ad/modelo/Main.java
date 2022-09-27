@@ -1,3 +1,5 @@
+package org.iesch.ad.modelo;
+
 import org.iesch.ad.modelo.*;
 
 import java.util.ArrayList;
