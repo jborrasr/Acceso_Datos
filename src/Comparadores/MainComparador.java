@@ -61,6 +61,14 @@ public class MainComparador {
 
         System.out.println("TreeMap");
 
+        TreeMap<Integer, Instrumento> map = new TreeMap<>();
+        map.put(1,i1);
+        map.put(2,i2);
+        map.put(3,i3);
+
+        System.out.println(map.get(1));
+        System.out.println(map.get(2));
+        System.out.println(map.get(3));
 
 
 
